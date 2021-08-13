@@ -1,7 +1,7 @@
 # Hello World Docker-Go
 
 ## Build
-`docker build -t {your-nickname}/hello-world-go:latest .`
+`docker build -t thurrio/codeeducation:latest .`
 
 ## Run
-`docker run {your-nickname}/hello-world-go`
+`docker run thurrio/codeeducation`
