@@ -1,4 +1,4 @@
-# Hello World Docker-Go
+# Code.education Rocks! @ Go
 
 ## Build
 `docker build -t thurrio/codeeducation:latest .`
